@@ -1,5 +1,3 @@
----
-
 ## Yelp Review Star Prediction — Assignment 3
 
 ### Course Project: CS Assignment 3
@@ -9,7 +7,6 @@
 **Models Used:** Multilayer Perceptron (MLP), BERT  
 **Evaluation Metrics:** Accuracy, F1-score, Confusion Matrix
 
----
 
 ### Project Description
 
@@ -22,7 +19,7 @@ The core task is to predict the **star rating (1 to 5)** of a review based on:
 
 Due to size constraints in Colab, I sampled a subset of the dataset and processed it efficiently using TF-IDF and tokenization techniques.
 
----
+
 
 ### Models
 
