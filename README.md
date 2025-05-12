@@ -4,10 +4,10 @@
 
 ### Course Project: CS Assignment 3
 
-**Author:** *Duaa Khan*
-**Dataset:** Yelp Academic Dataset
-**Models Used:** Multilayer Perceptron (MLP), BERT
-**Evaluation Metric:** Accuracy, F1-score, Confusion Matrix
+**Author:** *Duaa Khan*  
+**Dataset:** Yelp Academic Dataset  
+**Models Used:** Multilayer Perceptron (MLP), BERT  
+**Evaluation Metrics:** Accuracy, F1-score, Confusion Matrix
 
 ---
 
